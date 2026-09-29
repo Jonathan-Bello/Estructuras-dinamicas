@@ -1,0 +1,31 @@
+# Visual Studio / .NET build artifacts
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Rider / ReSharper
+.idea/
+*.sln.iml
+
+# OS-specific
+Thumbs.db
+.DS_Store
